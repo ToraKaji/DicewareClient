@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Diceware Client</string>
+  <string name="generate">Generate</string>
+  <string name="passphrase_length">Words in passphrase</string>
+</resources>
