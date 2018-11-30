@@ -2,4 +2,9 @@
   <string name="app_name">Diceware Client</string>
   <string name="generate">Generate</string>
   <string name="passphrase_length">Words in passphrase</string>
+  <string name="default_length">6</string>
+  <string name="client_id">476163729137-s1ttdjpvoh17no166kah2vqud1k68tkb.apps.googleusercontent.com</string>
+  <string name="login_error">Unable to sign in on Google account</string>
+  <string name="log_out">Log out</string>
+  <string name="oauth2_header">Bearer %s</string>
 </resources>
